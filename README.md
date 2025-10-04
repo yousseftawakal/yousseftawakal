@@ -44,6 +44,6 @@
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousseftawakal&show_icons=true&locale=en&layout=compact" alt="yousseftawakal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousseftawakal&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="yousseftawakal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousseftawakal&show_icons=true&locale=en" alt="yousseftawakal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousseftawakal&show_icons=true&theme=tokyonight&locale=en" alt="yousseftawakal" /></p>
