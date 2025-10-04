@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Tawakal</h1>
 <h3 align="center">A Software Engineer interested in MERN-Stack Development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousseftawakal&theme=tokyonight" alt="yousseftawakal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousseftawakal&theme=tokyonight" alt="yousseftawakal" /></a> </p>
 
 - 🔭 I’m currently a **Computer Science student**
 
@@ -43,7 +43,8 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
 </p>
-
+<p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousseftawakal&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="yousseftawakal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousseftawakal&show_icons=true&theme=tokyonight&locale=en" alt="yousseftawakal" /></p>
+</p>
