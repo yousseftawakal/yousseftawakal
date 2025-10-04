@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Tawakal</h1>
 <h3 align="center">A Software Engineer interested in MERN-Stack Development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousseftawakal" alt="yousseftawakal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousseftawakal&theme=tokyonight" alt="yousseftawakal" /></a> </p>
 
 - 🔭 I’m currently a **Computer Science student**
 
